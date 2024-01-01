@@ -408,7 +408,13 @@ background: var(--hover-color);
   font-weight: 600;
 }
 
-
+/* services section-----------------------------------------------*/
+.main-text{
+  width: 100%;
+  text-align: center;
+  margin-bottom: 2rem;
+  color: var(--hover-color);
+}
 
 
 
