@@ -537,23 +537,29 @@ background: var(--hover-color);
 
 .skill-bar .bar .html{
   width: 40%;
+  animation: html 3s;
 }
 
 .skill-bar .bar .java{
   width: 60%;
+  animation: java 4s;
 }
 
 .skill-bar .bar .javascript{
   width: 5%;
+  animation: 5s;
 }
 
 .skill-bar .bar .css{
   width: 30%;
+  animation: 6s;
 }
 
 .skill-bar .bar .figma{
   width: 10%;
+  animation: 7s;
 }
+
 
 
 /* Keyframes ------------------------------------------*/
